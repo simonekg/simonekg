@@ -1,5 +1,7 @@
 <h1>
 Simone Koniski Guimarães
+  
+<h6>
 
 Professora, Pesquisadora, [Doutoranda](https://www.researchgate.net/profile/Simone-Koniski-Guimaraes) em Geografia (UEPG)
 
