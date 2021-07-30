@@ -5,7 +5,7 @@ Simone Koniski Guimarães
 
 Aprendendo a programar com React Native na Rocketseat
   
-Professora, Pesquisadora, [Doutoranda](https://www.researchgate.net/profile/Simone-Koniski-Guimaraes) em Geografia (UEPG)
+Professora, Pesquisadora, Doutoranda em [Geografia](https://www.researchgate.net/profile/Simone-Koniski-Guimaraes) (UEPG)
 
 Sócia Fundadora da Associação de Preservação do Patrimônio Cultural ([APPAC](https://www.appac.org.br/))
 
