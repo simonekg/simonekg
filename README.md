@@ -17,4 +17,4 @@ Também faço a normalização de trabalhos científicos
 > Meu objetivo é aprender e ensinar sobre Patrimônio Cultural e Memória, Meio Ambiente, Economia e Tecnologia.
 
 
-[Meu Instagram](https://www.instagram.com/kg_simone/)
+[Instagram](https://www.instagram.com/kg_simone/)
