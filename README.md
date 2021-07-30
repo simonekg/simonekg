@@ -1,6 +1,6 @@
-<h1>Simone K. Guimarães<h1>
+<h1>Simone K. Guimarães
 
-Professora, Pesquisadora, Doutoranda em Geografia (UEPG)
+<h6>Professora, Pesquisadora, Doutoranda em Geografia (UEPG)
 
 Sócia Fundadora da Associação de Preservação do Patrimônio Cultural (APPAC)
 
