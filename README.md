@@ -1,6 +1,7 @@
+<h1>
 Simone Koniski Guimarães
 
-Professora, Pesquisadora, [Doutoranda(https://www.researchgate.net/profile/Simone-Koniski-Guimaraes)] em Geografia (UEPG)
+Professora, Pesquisadora, [Doutoranda](https://www.researchgate.net/profile/Simone-Koniski-Guimaraes) em Geografia (UEPG)
 
 Sócia Fundadora da Associação de Preservação do Patrimônio Cultural ([APPAC](https://www.appac.org.br/))
 
