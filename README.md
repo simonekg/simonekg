@@ -7,11 +7,14 @@ Professora, Pesquisadora, [Doutoranda](https://www.researchgate.net/profile/Simo
 
 Sócia Fundadora da Associação de Preservação do Patrimônio Cultural ([APPAC](https://www.appac.org.br/))
 
-Colaboradora do Grupo Universitário de Pesquisas Espeleológicas ([GUPE](https://www.gupe.org.br/)) :bat:
+Colaboradora do Grupo Universitário de Pesquisas Espeleológicas ([GUPE](https://www.gupe.org.br/))
 
-Aprendendo a programar com React Native :iphone: na Rocketseat :rocket:
+Aprendendo a programar com React Native na Rocketseat
 
-Também faço a normalização de trabalhos científicos :bookmark_tabs:
+Também faço a normalização de trabalhos científicos
 [@connectscience_](https://www.instagram.com/connectscience_/)
 
 > Amo aprender e ensinar sobre Patrimônio Cultural e Memória, Meio Ambiente, Economia e Tecnologia.
+  
+[Meu Instagram](https://www.instagram.com/kg_simone/)
+[Instagram das minhas gatas](https://www.instagram.com/folgatitas/)
