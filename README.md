@@ -14,7 +14,10 @@ Aprendendo a programar com React Native na Rocketseat
 Também faço a normalização de trabalhos científicos
 [@connectscience_](https://www.instagram.com/connectscience_/)
 
-> Amo aprender e ensinar sobre Patrimônio Cultural e Memória, Meio Ambiente, Economia e Tecnologia.
-  
+> Meu objetivo é aprender e ensinar sobre Patrimônio Cultural e Memória, Meio Ambiente, Economia e Tecnologia.
+
+
 [Meu Instagram](https://www.instagram.com/kg_simone/)
+
+ 
 [Instagram das minhas gatas](https://www.instagram.com/folgatitas/)
