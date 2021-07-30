@@ -18,6 +18,3 @@ Também faço a normalização de trabalhos científicos
 
 
 [Meu Instagram](https://www.instagram.com/kg_simone/)
-
- 
-[Instagram das minhas gatas](https://www.instagram.com/folgatitas/)
