@@ -1,7 +1,7 @@
 <h1>
 Simone Koniski Guimarães
   
-<h6>
+<h4>
 
 Aprendendo a programar com React Native na Rocketseat
   
